@@ -2,4 +2,4 @@ botocore
 bedrock-agentcore
 strands-agents
 strands-agents[otel]
-strands-agents-tools[rss]
+strands-agents-tools[rss]==0.8.12
